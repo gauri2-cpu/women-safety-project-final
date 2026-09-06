@@ -1,0 +1,1972 @@
+[
+  {
+    "id": "b3d08fcf-333c-4e3c-a31d-6736daed8e8a",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.1926821809767,
+    "longitude": 73.2000734535589,
+    "message": "Emergency SOS Alert - I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2025-12-15T13:45:43.239Z"
+  },
+  {
+    "id": "1897c5cd-c1f5-4fcc-a672-12df9cd41c77",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.1926821809767,
+    "longitude": 73.2000734535589,
+    "message": "Emergency SOS Alert - I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2025-12-15T13:45:44.367Z"
+  },
+  {
+    "id": "7ab65ec8-9d8b-43ad-808e-88063ee8c847",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.1926821809767,
+    "longitude": 73.2000734535589,
+    "message": "Emergency SOS Alert - I need help immediately!",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee"
+    ],
+    "status": "active",
+    "timestamp": "2025-12-15T13:53:47.396Z"
+  },
+  {
+    "id": "36c9fb72-7e79-4d39-92ab-48c0af45fd73",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.19300588794269,
+    "longitude": 73.20164511854556,
+    "message": "help me someone is following me\n",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee"
+    ],
+    "status": "active",
+    "timestamp": "2025-12-19T09:07:55.122Z"
+  },
+  {
+    "id": "b40eaf5a-536c-4409-8c31-2577d5966b9c",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.193045847901804,
+    "longitude": 73.20165797594957,
+    "message": "help",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee"
+    ],
+    "status": "active",
+    "timestamp": "2025-12-19T09:38:03.692Z"
+  },
+  {
+    "id": "9fc0808f-ecb0-4cd3-bb80-e0b02d51e7e0",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.19303383049473,
+    "longitude": 73.20169156609894,
+    "message": "help",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee"
+    ],
+    "status": "active",
+    "timestamp": "2025-12-19T11:05:43.630Z"
+  },
+  {
+    "id": "916460bb-c13c-484a-acb2-4fa885491ddd",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.193045107060644,
+    "longitude": 73.20163138403692,
+    "message": "Emergency SOS Alert - I need help immediately!",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee"
+    ],
+    "status": "active",
+    "timestamp": "2025-12-19T11:24:38.963Z"
+  },
+  {
+    "id": "f30bd977-41cc-434d-b3d8-3192a2e9ad05",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.193041613818668,
+    "longitude": 73.20170532931728,
+    "message": "help me ",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee"
+    ],
+    "status": "active",
+    "timestamp": "2026-01-18T14:05:28.444Z"
+  },
+  {
+    "id": "a4e3e7bc-aa53-4a6f-8aac-856f0939bdd2",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.119597119846006,
+    "longitude": 72.93908081625764,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "a8104153-085a-4f49-bef0-4d1bd8decf18"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T05:07:22.390Z"
+  },
+  {
+    "id": "718c2279-b34a-4645-b705-57d2a81a3a59",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.11967991199978,
+    "longitude": 72.93911336700312,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "a8104153-085a-4f49-bef0-4d1bd8decf18"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T05:19:07.746Z"
+  },
+  {
+    "id": "1d65b61e-667e-4386-bcc6-591112db120f",
+    "userId": "73cbf364-5289-43f5-b28d-51caf8016d86",
+    "latitude": 19.193051651745847,
+    "longitude": 73.20169429991898,
+    "message": "help",
+    "contactsNotified": [
+      "b6102d24-f95d-42f2-9489-aa7030b005a3"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T13:53:48.989Z"
+  },
+  {
+    "id": "14800c97-d40d-4d8f-9386-feb75300ae0c",
+    "userId": "73cbf364-5289-43f5-b28d-51caf8016d86",
+    "latitude": 19.193007901572642,
+    "longitude": 73.20170252651207,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "b6102d24-f95d-42f2-9489-aa7030b005a3"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:02:10.180Z"
+  },
+  {
+    "id": "6383d1b9-94ea-4ee8-aace-c8c73a2a96bb",
+    "userId": "73cbf364-5289-43f5-b28d-51caf8016d86",
+    "latitude": 19.193007901572642,
+    "longitude": 73.20170252651207,
+    "message": "EMERGENCY ALERT - Quick SOS triggered",
+    "contactsNotified": [
+      "b6102d24-f95d-42f2-9489-aa7030b005a3"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:02:20.147Z"
+  },
+  {
+    "id": "b501dc5d-6783-4077-a5f4-376f47abb2e8",
+    "userId": "73cbf364-5289-43f5-b28d-51caf8016d86",
+    "latitude": 19.19300508824604,
+    "longitude": 73.20169573376515,
+    "message": "help me",
+    "contactsNotified": [
+      "b6102d24-f95d-42f2-9489-aa7030b005a3"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:07:46.265Z"
+  },
+  {
+    "id": "d662aea9-570d-46b2-a9ea-a04b6c807722",
+    "userId": "73cbf364-5289-43f5-b28d-51caf8016d86",
+    "latitude": 19.193014320331176,
+    "longitude": 73.20168826257995,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "b6102d24-f95d-42f2-9489-aa7030b005a3"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:10:39.618Z"
+  },
+  {
+    "id": "d6e54afa-20f0-4409-bbd5-fe9206f043b3",
+    "userId": "73cbf364-5289-43f5-b28d-51caf8016d86",
+    "latitude": 19.19310765979442,
+    "longitude": 73.20170490840505,
+    "message": "help me",
+    "contactsNotified": [
+      "b6102d24-f95d-42f2-9489-aa7030b005a3"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:13:37.213Z"
+  },
+  {
+    "id": "e5678b20-515b-40fc-b673-3606aae8df07",
+    "userId": "73cbf364-5289-43f5-b28d-51caf8016d86",
+    "latitude": 19.193046672852155,
+    "longitude": 73.20168778072444,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "b6102d24-f95d-42f2-9489-aa7030b005a3"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:13:54.199Z"
+  },
+  {
+    "id": "34b507e9-d6df-49cb-91e8-1f0223feea4e",
+    "userId": "73cbf364-5289-43f5-b28d-51caf8016d86",
+    "latitude": 19.193046672852155,
+    "longitude": 73.20168778072444,
+    "message": "help me ",
+    "contactsNotified": [
+      "b6102d24-f95d-42f2-9489-aa7030b005a3"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:14:07.089Z"
+  },
+  {
+    "id": "cd0530c1-74f2-4508-a676-8e072f0a0110",
+    "userId": "73cbf364-5289-43f5-b28d-51caf8016d86",
+    "latitude": 19.193046672852155,
+    "longitude": 73.20168778072444,
+    "message": "help me",
+    "contactsNotified": [
+      "b6102d24-f95d-42f2-9489-aa7030b005a3"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:17:12.323Z"
+  },
+  {
+    "id": "0bf080ad-a5e0-4204-9317-df6646148d4a",
+    "userId": "73cbf364-5289-43f5-b28d-51caf8016d86",
+    "latitude": 19.193045597813285,
+    "longitude": 73.20168626390891,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "b6102d24-f95d-42f2-9489-aa7030b005a3"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:17:32.697Z"
+  },
+  {
+    "id": "a9f61547-045b-4b15-aec8-416d7ad24799",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.193008645151938,
+    "longitude": 73.20169551232286,
+    "message": "jjfytd",
+    "contactsNotified": [
+      "a8104153-085a-4f49-bef0-4d1bd8decf18"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:21:21.235Z"
+  },
+  {
+    "id": "9c64a0c2-d5ab-4941-a252-eceb68737000",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.193008645151938,
+    "longitude": 73.20169551232286,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.193008645151938,73.20169551232286\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "a8104153-085a-4f49-bef0-4d1bd8decf18"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:21:28.909Z"
+  },
+  {
+    "id": "00666431-a950-4c99-b2e3-35c0712ccc5d",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.193008645151938,
+    "longitude": 73.20169551232286,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.193008645151938,73.20169551232286\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "a8104153-085a-4f49-bef0-4d1bd8decf18"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:21:28.978Z"
+  },
+  {
+    "id": "d92a7c43-fb48-4ce0-85ed-86ce2000005a",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.192989886431338,
+    "longitude": 73.20168857248072,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "a8104153-085a-4f49-bef0-4d1bd8decf18"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:22:18.197Z"
+  },
+  {
+    "id": "7c199335-c2e0-4a2a-b1be-4c9d7c67c32d",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.193046672852155,
+    "longitude": 73.20168778072444,
+    "message": "aJKHEW",
+    "contactsNotified": [
+      "a8104153-085a-4f49-bef0-4d1bd8decf18"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:22:42.157Z"
+  },
+  {
+    "id": "9dfa8ff7-55f1-4931-beca-6fbed2e2fa5c",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.193036821898865,
+    "longitude": 73.2016932501834,
+    "message": "jhyu",
+    "contactsNotified": [
+      "a8104153-085a-4f49-bef0-4d1bd8decf18"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:28:59.839Z"
+  },
+  {
+    "id": "fcdff7b9-0d2a-4531-9535-86f75c264565",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.193046672852155,
+    "longitude": 73.20168778072444,
+    "message": "jni",
+    "contactsNotified": [
+      "a8104153-085a-4f49-bef0-4d1bd8decf18"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:29:25.500Z"
+  },
+  {
+    "id": "e30080ab-2e97-45a7-be9f-aeda0125378a",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.193004125721952,
+    "longitude": 73.20169448621442,
+    "message": "uht",
+    "contactsNotified": [
+      "a8104153-085a-4f49-bef0-4d1bd8decf18"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:34:40.982Z"
+  },
+  {
+    "id": "04d27f7a-2c7b-45b7-b082-294e2ae6fa92",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.193054408586182,
+    "longitude": 73.20169009219843,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.193054408586182,73.20169009219843\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "a8104153-085a-4f49-bef0-4d1bd8decf18"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:34:56.018Z"
+  },
+  {
+    "id": "2a8a4e60-fc1d-4c7a-b72a-40abfec19e7a",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.193054408586182,
+    "longitude": 73.20169009219843,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.193054408586182,73.20169009219843\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "a8104153-085a-4f49-bef0-4d1bd8decf18"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:34:56.077Z"
+  },
+  {
+    "id": "dddeb074-bd7f-4ca8-a1ab-b6e4db7bfe6e",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.193007782148598,
+    "longitude": 73.20170235811865,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.193007782148598,73.20170235811865\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "a8104153-085a-4f49-bef0-4d1bd8decf18",
+      "ead04db3-ffb1-4461-805f-58dcbe8e8ae2"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:36:03.837Z"
+  },
+  {
+    "id": "752c492c-fed1-4021-a92f-919643bc544d",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.193007782148598,
+    "longitude": 73.20170235811865,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.193007782148598,73.20170235811865\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "a8104153-085a-4f49-bef0-4d1bd8decf18",
+      "ead04db3-ffb1-4461-805f-58dcbe8e8ae2"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:36:04.024Z"
+  },
+  {
+    "id": "d0742a74-b1de-4bfc-8bc2-61db1aa2204d",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.193052400661667,
+    "longitude": 73.20168877226827,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.193052400661667,73.20168877226827\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "a8104153-085a-4f49-bef0-4d1bd8decf18",
+      "ead04db3-ffb1-4461-805f-58dcbe8e8ae2"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:36:37.733Z"
+  },
+  {
+    "id": "6e47ce5f-f353-480d-b40f-41ab7e4ed68c",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.193052400661667,
+    "longitude": 73.20168877226827,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.193052400661667,73.20168877226827\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "a8104153-085a-4f49-bef0-4d1bd8decf18",
+      "ead04db3-ffb1-4461-805f-58dcbe8e8ae2"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:36:37.807Z"
+  },
+  {
+    "id": "11badd27-0e23-490f-9879-3e7bd2131cbf",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.193004125721952,
+    "longitude": 73.20169448621442,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.193004125721952,73.20169448621442\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "a8104153-085a-4f49-bef0-4d1bd8decf18",
+      "ead04db3-ffb1-4461-805f-58dcbe8e8ae2"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:49:09.693Z"
+  },
+  {
+    "id": "a9bfbe17-685b-483e-bb45-bc09be809870",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.193004125721952,
+    "longitude": 73.20169448621442,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.193004125721952,73.20169448621442\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "a8104153-085a-4f49-bef0-4d1bd8decf18",
+      "ead04db3-ffb1-4461-805f-58dcbe8e8ae2"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T14:49:09.733Z"
+  },
+  {
+    "id": "d9ced74b-41c9-4bb2-ab67-2267aa647bb6",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.19296119812134,
+    "longitude": 73.2015764805769,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.19296119812134,73.2015764805769\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "a8104153-085a-4f49-bef0-4d1bd8decf18",
+      "ead04db3-ffb1-4461-805f-58dcbe8e8ae2"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T15:40:18.317Z"
+  },
+  {
+    "id": "50f7ab66-0185-42f4-ad15-e35e3ca17970",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.19296119812134,
+    "longitude": 73.2015764805769,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.19296119812134,73.2015764805769\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "a8104153-085a-4f49-bef0-4d1bd8decf18",
+      "ead04db3-ffb1-4461-805f-58dcbe8e8ae2"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T15:40:18.351Z"
+  },
+  {
+    "id": "8215449e-7a2d-47d5-91b4-e649d0a1c720",
+    "userId": "73cbf364-5289-43f5-b28d-51caf8016d86",
+    "latitude": 19.192928543406722,
+    "longitude": 73.20168931845804,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.192928543406722,73.20168931845804\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "b6102d24-f95d-42f2-9489-aa7030b005a3"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T16:03:08.567Z"
+  },
+  {
+    "id": "9d6c2a0a-bd2f-43ac-bb53-80cf22921fd6",
+    "userId": "73cbf364-5289-43f5-b28d-51caf8016d86",
+    "latitude": 19.192928543406722,
+    "longitude": 73.20168931845804,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.192928543406722,73.20168931845804\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "b6102d24-f95d-42f2-9489-aa7030b005a3"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-11T16:03:08.580Z"
+  },
+  {
+    "id": "a330cd17-b30e-4e9b-b34c-ef9c98382a2e",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.192823896226162,
+    "longitude": 73.20167791770344,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.192823896226162,73.20167791770344\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-12T15:27:30.518Z"
+  },
+  {
+    "id": "18ad0224-f73a-4189-a8a5-1f219ca54d6c",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.192823896226162,
+    "longitude": 73.20167791770344,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.192823896226162,73.20167791770344\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-12T15:27:30.604Z"
+  },
+  {
+    "id": "148980aa-b68a-407d-9e68-0e237fb20762",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.192823896226162,
+    "longitude": 73.20167791770344,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.192823896226162,73.20167791770344\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-12T15:28:25.739Z"
+  },
+  {
+    "id": "1112ae6f-b5fa-452c-a38c-7e52c4c81ad3",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.192823896226162,
+    "longitude": 73.20167791770344,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.192823896226162,73.20167791770344\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-12T15:28:25.818Z"
+  },
+  {
+    "id": "b9b30943-d1b0-496e-b4e3-3361955c6ca1",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.192815137839496,
+    "longitude": 73.20167714927507,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.192815137839496,73.20167714927507\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-12T15:33:53.818Z"
+  },
+  {
+    "id": "0567fa16-c625-4301-b030-6a577d027f07",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.192815137839496,
+    "longitude": 73.20167714927507,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.192815137839496,73.20167714927507\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-12T15:33:53.906Z"
+  },
+  {
+    "id": "0e9aa9c2-d4c5-4600-baee-7afef08c07d7",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.19290937976028,
+    "longitude": 73.20170071751488,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.19290937976028,73.20170071751488\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-12T15:34:20.544Z"
+  },
+  {
+    "id": "5f68613c-a4e0-4e89-9a5b-b53b37506ce1",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.19290937976028,
+    "longitude": 73.20170071751488,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.19290937976028,73.20170071751488\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-12T15:34:20.617Z"
+  },
+  {
+    "id": "372c6eba-2548-4ee4-9c26-a68370c06aa9",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.192823896226162,
+    "longitude": 73.20167791770344,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.192823896226162,73.20167791770344\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-12T15:34:45.146Z"
+  },
+  {
+    "id": "96274058-015b-4369-b43b-48e897705103",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.192823896226162,
+    "longitude": 73.20167791770344,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.192823896226162,73.20167791770344\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-12T15:34:45.217Z"
+  },
+  {
+    "id": "174c71f2-5646-46e1-89ef-6f4e007175be",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.19289341727026,
+    "longitude": 73.20168918039683,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.19289341727026,73.20168918039683\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-13T13:54:46.630Z"
+  },
+  {
+    "id": "075b3ac2-071b-4ffd-bba0-501bd7623812",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.19289341727026,
+    "longitude": 73.20168918039683,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.19289341727026,73.20168918039683\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-13T13:54:46.663Z"
+  },
+  {
+    "id": "6fb044b7-6dbc-4bd2-a902-06e65f35926c",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.11954022402653,
+    "longitude": 72.93893698259618,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.11954022402653,72.93893698259618\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-17T07:21:56.864Z"
+  },
+  {
+    "id": "2594e8af-8db5-4663-84e5-af8cb540cf66",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.11954022402653,
+    "longitude": 72.93893698259618,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.11954022402653,72.93893698259618\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-17T07:21:56.979Z"
+  },
+  {
+    "id": "e428b510-5d86-422b-809b-dd2b55737f52",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.119873847266486,
+    "longitude": 72.93913918145454,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.119873847266486,72.93913918145454\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-24T06:33:37.173Z"
+  },
+  {
+    "id": "d5dc1fd8-cdeb-4867-a241-024b04fafbab",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.119873847266486,
+    "longitude": 72.93913918145454,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.119873847266486,72.93913918145454\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-24T06:33:37.248Z"
+  },
+  {
+    "id": "58a245b1-6492-4cc7-bcca-2b0a9742a146",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.120218537490132,
+    "longitude": 72.93911658681924,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.120218537490132,72.93911658681924\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-26T06:07:51.802Z"
+  },
+  {
+    "id": "2fa1f798-7aaa-4c3a-b463-3d54b0ec1781",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.12001494286025,
+    "longitude": 72.93889213772499,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.12001494286025,72.93889213772499\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-26T06:08:12.011Z"
+  },
+  {
+    "id": "96cb6f6a-3598-4fa5-af19-0539a14f5052",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.12001494286025,
+    "longitude": 72.93889213772499,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.12001494286025,72.93889213772499\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-26T06:08:12.080Z"
+  },
+  {
+    "id": "074f395c-6ff9-4738-9d3f-5fce8ff92e2d",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.120205613814544,
+    "longitude": 72.93906835590701,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.120205613814544,72.93906835590701\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-26T06:09:58.029Z"
+  },
+  {
+    "id": "0730542b-37ea-4b8f-b665-413a68e87760",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.120205613814544,
+    "longitude": 72.93906835590701,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.120205613814544,72.93906835590701\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-02-26T06:09:58.092Z"
+  },
+  {
+    "id": "e28ce8bb-dccc-4a0c-b5df-9ecdc5f97bf9",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.192942739818804,
+    "longitude": 73.20159315155247,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.192942739818804,73.20159315155247\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-05T11:12:06.186Z"
+  },
+  {
+    "id": "87641708-5950-4a92-925c-3247067e2638",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.192942739818804,
+    "longitude": 73.20159315155247,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.192942739818804,73.20159315155247\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-05T11:12:07.053Z"
+  },
+  {
+    "id": "0d12902b-a2dc-476c-914b-775aa7500c50",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.19258565147909,
+    "longitude": 73.2017450051003,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.19258565147909,73.2017450051003\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-05T11:13:52.770Z"
+  },
+  {
+    "id": "532b9961-bc27-42bc-bffe-1ce57f6ee151",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.19258565147909,
+    "longitude": 73.2017450051003,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.19258565147909,73.2017450051003\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-05T11:13:52.996Z"
+  },
+  {
+    "id": "718fed3b-90bd-41f4-8ae4-60638205f379",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.19258565147909,
+    "longitude": 73.2017450051003,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.19258565147909,73.2017450051003\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-05T11:18:28.775Z"
+  },
+  {
+    "id": "8b400902-c3fe-4e66-aaec-2a9fbc4bc97a",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.19258565147909,
+    "longitude": 73.2017450051003,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.19258565147909,73.2017450051003\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-05T11:18:28.913Z"
+  },
+  {
+    "id": "49661350-d545-449a-bf11-ded3e315718e",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.19258565147909,
+    "longitude": 73.2017450051003,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.19258565147909,73.2017450051003\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-05T11:20:12.400Z"
+  },
+  {
+    "id": "b15aef64-bc9b-4d04-bb0d-c02f133d33d5",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.19258565147909,
+    "longitude": 73.2017450051003,
+    "message": "🚨 EMERGENCY! I need help immediately!\n\nMy current location:\nhttps://maps.google.com/?q=19.19258565147909,73.2017450051003\n\nPlease contact me or emergency services right away!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-05T11:20:12.493Z"
+  },
+  {
+    "id": "e766f831-f352-4528-ba31-c0d04e11cf60",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.19252356259067,
+    "longitude": 73.2015813814404,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-05T15:00:55.400Z",
+    "whatsappBroadcast": {
+      "attempted": true,
+      "contactsAttempted": 2,
+      "contactsSuccessful": 1,
+      "errors": [
+        "Popup blocked by browser"
+      ],
+      "timestamp": "2026-03-05T15:00:57.771Z"
+    },
+    "updatedAt": "2026-03-05T15:00:57.771Z"
+  },
+  {
+    "id": "04b9cf5a-bb17-4184-a43f-0d10e42df59d",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.19252356259067,
+    "longitude": 73.2015813814404,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-05T15:00:55.404Z"
+  },
+  {
+    "id": "4d560aa7-5dec-4f6b-a1ee-2721638db6d1",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.19252356259067,
+    "longitude": 73.2015813814404,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "a8104153-085a-4f49-bef0-4d1bd8decf18",
+      "ead04db3-ffb1-4461-805f-58dcbe8e8ae2"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-05T15:00:55.446Z"
+  },
+  {
+    "id": "61ac176f-a0b0-4385-bbd6-94338c708d16",
+    "userId": "81c94300-8f14-4443-9e9e-6192a046bef9",
+    "latitude": 19.19252356259067,
+    "longitude": 73.2015813814404,
+    "message": "⚠️ EMERGENCY ALERT!\n\nI need help immediately!\n\nLocation: https://maps.google.com/?q=19.19252356259067,73.2015813814404\n\nPlease contact me or emergency services.",
+    "contactsNotified": [
+      "a8104153-085a-4f49-bef0-4d1bd8decf18",
+      "ead04db3-ffb1-4461-805f-58dcbe8e8ae2"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-05T15:00:57.778Z"
+  },
+  {
+    "id": "105b292d-58e0-495d-b269-b938e47184e7",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.19292908849186,
+    "longitude": 73.20162986731067,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-06T00:53:47.684Z",
+    "whatsappBroadcast": {
+      "attempted": true,
+      "contactsAttempted": 4,
+      "contactsSuccessful": 1,
+      "errors": [
+        "Popup blocked by browser",
+        "Popup blocked by browser",
+        "Popup blocked by browser"
+      ],
+      "timestamp": "2026-03-06T00:53:54.087Z"
+    },
+    "updatedAt": "2026-03-06T00:53:54.087Z"
+  },
+  {
+    "id": "15cfc994-442a-4f54-9e0a-d2678c76a5a0",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.19292908849186,
+    "longitude": 73.20162986731067,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-06T00:53:47.691Z"
+  },
+  {
+    "id": "01c0de25-637e-4a43-ab03-425709fde3d7",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.19292908849186,
+    "longitude": 73.20162986731067,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-06T00:53:47.717Z"
+  },
+  {
+    "id": "90046d17-38e5-4ffb-9cae-f46b57faae8c",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.19292908849186,
+    "longitude": 73.20162986731067,
+    "message": "⚠️ EMERGENCY ALERT!\n\nI need help immediately!\n\nLocation: https://maps.google.com/?q=19.19292908849186,73.20162986731067\n\nPlease contact me or emergency services.",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-06T00:53:54.109Z"
+  },
+  {
+    "id": "7cec8c40-fa6b-4621-9844-71c6615db911",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.120151701567956,
+    "longitude": 72.93905963186755,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-06T05:41:01.128Z",
+    "whatsappBroadcast": {
+      "attempted": true,
+      "contactsAttempted": 4,
+      "contactsSuccessful": 0,
+      "errors": [
+        "Popup blocked by browser",
+        "Popup blocked by browser",
+        "Popup blocked by browser",
+        "Popup blocked by browser"
+      ],
+      "timestamp": "2026-03-06T05:41:07.537Z"
+    },
+    "updatedAt": "2026-03-06T05:41:07.537Z"
+  },
+  {
+    "id": "ad0083ba-e78b-4154-a574-b7afdc7b57cd",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.120151701567956,
+    "longitude": 72.93905963186755,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-06T05:41:01.152Z"
+  },
+  {
+    "id": "8ec5fa38-b251-4192-9395-c90975e5d501",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.120151701567956,
+    "longitude": 72.93905963186755,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-06T05:41:01.190Z"
+  },
+  {
+    "id": "c4d30575-97fc-416c-837f-a724365d1588",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.120151701567956,
+    "longitude": 72.93905963186755,
+    "message": "⚠️ EMERGENCY ALERT!\n\nI need help immediately!\n\nLocation: https://maps.google.com/?q=19.120151701567956,72.93905963186755\n\nPlease contact me or emergency services.",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-06T05:41:07.558Z"
+  },
+  {
+    "id": "bf699998-65ce-45a4-9b97-7e5669568567",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.12020035055601,
+    "longitude": 72.93910691495631,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-06T05:41:19.545Z",
+    "whatsappBroadcast": {
+      "attempted": true,
+      "contactsAttempted": 4,
+      "contactsSuccessful": 1,
+      "errors": [
+        "Popup blocked by browser",
+        "Popup blocked by browser",
+        "Popup blocked by browser"
+      ],
+      "timestamp": "2026-03-06T05:41:26.079Z"
+    },
+    "updatedAt": "2026-03-06T05:41:26.079Z"
+  },
+  {
+    "id": "41a94354-d14b-4c31-aa23-0027f1a58c6b",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.12020035055601,
+    "longitude": 72.93910691495631,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-06T05:41:19.577Z"
+  },
+  {
+    "id": "f20a05db-5954-4003-82bc-6780ef90abcc",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.12020035055601,
+    "longitude": 72.93910691495631,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-06T05:41:19.674Z"
+  },
+  {
+    "id": "a1061642-1d30-42aa-b2cd-866474b981e8",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.12020035055601,
+    "longitude": 72.93910691495631,
+    "message": "⚠️ EMERGENCY ALERT!\n\nI need help immediately!\n\nLocation: https://maps.google.com/?q=19.12020035055601,72.93910691495631\n\nPlease contact me or emergency services.",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-06T05:41:26.118Z"
+  },
+  {
+    "id": "3cc9eba6-31e3-4777-9aec-6fc328b650c1",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.120151714188623,
+    "longitude": 72.93893099679532,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-06T06:21:20.983Z",
+    "whatsappBroadcast": {
+      "attempted": true,
+      "contactsAttempted": 4,
+      "contactsSuccessful": 1,
+      "errors": [
+        "Popup blocked by browser",
+        "Popup blocked by browser",
+        "Popup blocked by browser"
+      ],
+      "timestamp": "2026-03-06T06:21:27.119Z"
+    },
+    "updatedAt": "2026-03-06T06:21:27.119Z"
+  },
+  {
+    "id": "2dca0531-90c3-470d-9827-21a953eb7916",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.120151714188623,
+    "longitude": 72.93893099679532,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-06T06:21:21.000Z"
+  },
+  {
+    "id": "eb77b279-bee8-485c-8bdd-578bd477b94c",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.120151714188623,
+    "longitude": 72.93893099679532,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-06T06:21:21.024Z"
+  },
+  {
+    "id": "379184db-1d19-4753-b5d0-b83938f100be",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.120151714188623,
+    "longitude": 72.93893099679532,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-06T06:21:27.081Z",
+    "whatsappBroadcast": {
+      "attempted": true,
+      "contactsAttempted": 4,
+      "contactsSuccessful": 0,
+      "errors": [
+        "Popup blocked by browser",
+        "Popup blocked by browser",
+        "Popup blocked by browser",
+        "Popup blocked by browser"
+      ],
+      "timestamp": "2026-03-06T06:21:33.525Z"
+    },
+    "updatedAt": "2026-03-06T06:21:33.525Z"
+  },
+  {
+    "id": "00336c38-21d5-4836-b6a5-abc74c454173",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.120151714188623,
+    "longitude": 72.93893099679532,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-06T06:21:27.103Z"
+  },
+  {
+    "id": "be092ac0-54ea-4c8f-b335-6891ca896164",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.120151714188623,
+    "longitude": 72.93893099679532,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-06T06:21:27.153Z"
+  },
+  {
+    "id": "62ede279-0946-4211-9dd7-b913e2533391",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.120151714188623,
+    "longitude": 72.93893099679532,
+    "message": "⚠️ EMERGENCY ALERT!\n\nI need help immediately!\n\nLocation: https://maps.google.com/?q=19.120151714188623,72.93893099679532\n\nPlease contact me or emergency services.",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-06T06:21:27.186Z"
+  },
+  {
+    "id": "fa3de457-4f81-4ac4-829e-e3d2f587e5cc",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.120151714188623,
+    "longitude": 72.93893099679532,
+    "message": "⚠️ EMERGENCY ALERT!\n\nI need help immediately!\n\nLocation: https://maps.google.com/?q=19.120151714188623,72.93893099679532\n\nPlease contact me or emergency services.",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-06T06:21:33.558Z"
+  },
+  {
+    "id": "432f7991-9071-4ee0-8940-6d71807709ca",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.119986349234402,
+    "longitude": 72.93903482094322,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-07T05:06:54.846Z",
+    "whatsappBroadcast": {
+      "attempted": true,
+      "contactsAttempted": 4,
+      "contactsSuccessful": 1,
+      "errors": [
+        "Popup blocked by browser",
+        "Popup blocked by browser",
+        "Popup blocked by browser"
+      ],
+      "timestamp": "2026-03-07T05:07:01.351Z"
+    },
+    "updatedAt": "2026-03-07T05:07:01.351Z"
+  },
+  {
+    "id": "53d26c99-af2d-460c-8db5-8053c34ecb07",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.119986349234402,
+    "longitude": 72.93903482094322,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-07T05:06:54.864Z"
+  },
+  {
+    "id": "b1cef070-bdfb-47a0-a1f6-af1b07c22c3c",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.119986349234402,
+    "longitude": 72.93903482094322,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-07T05:06:54.889Z"
+  },
+  {
+    "id": "0be2f27c-bf86-4333-944f-796905b0c71b",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": 19.119986349234402,
+    "longitude": 72.93903482094322,
+    "message": "⚠️ EMERGENCY ALERT!\n\nI need help immediately!\n\nLocation: https://maps.google.com/?q=19.119986349234402,72.93903482094322\n\nPlease contact me or emergency services.",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-07T05:07:01.410Z"
+  },
+  {
+    "id": "e70429b8-9dc0-4e5d-86ce-fd02bf69cf84",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.119846146667456,
+    "longitude": 72.93912014221942,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-07T07:08:44.365Z",
+    "whatsappBroadcast": {
+      "attempted": true,
+      "contactsAttempted": 4,
+      "contactsSuccessful": 1,
+      "errors": [
+        "Popup blocked by browser",
+        "Popup blocked by browser",
+        "Popup blocked by browser"
+      ],
+      "timestamp": "2026-03-07T07:08:52.364Z"
+    },
+    "updatedAt": "2026-03-07T07:08:52.364Z"
+  },
+  {
+    "id": "22296990-be27-4bdf-a7c6-497585287ef5",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.119846146667456,
+    "longitude": 72.93912014221942,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-07T07:08:44.383Z"
+  },
+  {
+    "id": "c4a1f5c8-ffcb-4884-bdbc-981677f9f042",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.119846146667456,
+    "longitude": 72.93912014221942,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-07T07:08:44.407Z"
+  },
+  {
+    "id": "f2a7c59e-05bb-4951-b1d2-1276e4a5e4d7",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.119846146667456,
+    "longitude": 72.93912014221942,
+    "message": "⚠️ EMERGENCY ALERT!\n\nI need help immediately!\n\nLocation: https://maps.google.com/?q=19.119846146667456,72.93912014221942\n\nPlease contact me or emergency services.",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-07T07:08:52.385Z"
+  },
+  {
+    "id": "000eb7d1-a062-4c20-ae4c-54323f1086d3",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.135314499999996,
+    "longitude": 72.93861249999999,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-07T08:48:19.979Z",
+    "whatsappBroadcast": {
+      "attempted": true,
+      "contactsAttempted": 4,
+      "contactsSuccessful": 1,
+      "errors": [
+        "Popup blocked by browser",
+        "Popup blocked by browser",
+        "Popup blocked by browser"
+      ],
+      "timestamp": "2026-03-07T08:48:27.202Z"
+    },
+    "updatedAt": "2026-03-07T08:48:27.202Z"
+  },
+  {
+    "id": "cebc8505-1154-4821-a974-b95a3521a1ca",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.135314499999996,
+    "longitude": 72.93861249999999,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-07T08:48:20.002Z"
+  },
+  {
+    "id": "4ea67abb-f3e7-416f-9568-77798ad017e7",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.135314499999996,
+    "longitude": 72.93861249999999,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-07T08:48:20.105Z"
+  },
+  {
+    "id": "20101da2-a48f-461c-910a-75cf984adb9f",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.135314499999996,
+    "longitude": 72.93861249999999,
+    "message": "⚠️ EMERGENCY ALERT!\n\nI need help immediately!\n\nLocation: https://maps.google.com/?q=19.135314499999996,72.93861249999999\n\nPlease contact me or emergency services.",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-07T08:48:27.224Z"
+  },
+  {
+    "id": "6c062fc5-b87b-44b7-b393-40d9ea28dd2d",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.135226,
+    "longitude": 72.9385375,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-07T08:51:10.938Z",
+    "whatsappBroadcast": {
+      "attempted": true,
+      "contactsAttempted": 4,
+      "contactsSuccessful": 1,
+      "errors": [
+        "Popup blocked by browser",
+        "Popup blocked by browser",
+        "Popup blocked by browser"
+      ],
+      "timestamp": "2026-03-07T08:51:17.418Z"
+    },
+    "updatedAt": "2026-03-07T08:51:17.418Z"
+  },
+  {
+    "id": "a7d2f1ee-3b87-447e-8a03-f873ac333626",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.135226,
+    "longitude": 72.9385375,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-07T08:51:10.976Z"
+  },
+  {
+    "id": "e283c474-10e5-46d8-a236-62e8aad133fb",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.135226,
+    "longitude": 72.9385375,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-07T08:51:11.069Z"
+  },
+  {
+    "id": "e9e30bb7-5c3f-46ff-b1d4-178d2fcc42a1",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.135226,
+    "longitude": 72.9385375,
+    "message": "⚠️ EMERGENCY ALERT!\n\nI need help immediately!\n\nLocation: https://maps.google.com/?q=19.135226,72.9385375\n\nPlease contact me or emergency services.",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-07T08:51:17.445Z"
+  },
+  {
+    "id": "7e8e8233-af2c-4ad6-932d-eb18c8ba7d4f",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.135226,
+    "longitude": 72.9385375,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-07T15:09:02.095Z",
+    "whatsappBroadcast": {
+      "attempted": true,
+      "contactsAttempted": 4,
+      "contactsSuccessful": 1,
+      "errors": [
+        "Popup blocked by browser",
+        "Popup blocked by browser",
+        "Popup blocked by browser"
+      ],
+      "timestamp": "2026-03-07T15:09:08.566Z"
+    },
+    "updatedAt": "2026-03-07T15:09:08.566Z"
+  },
+  {
+    "id": "a000393f-388e-44c8-9f4a-8a247cd7c7ea",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.135226,
+    "longitude": 72.9385375,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-07T15:09:02.112Z"
+  },
+  {
+    "id": "0494188e-b694-4d54-9556-f167d9ab118c",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.135226,
+    "longitude": 72.9385375,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-07T15:09:02.190Z"
+  },
+  {
+    "id": "8289a415-abe1-4e2e-bda2-a001dc20b167",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.135226,
+    "longitude": 72.9385375,
+    "message": "⚠️ EMERGENCY ALERT!\n\nI need help immediately!\n\nLocation: https://maps.google.com/?q=19.135226,72.9385375\n\nPlease contact me or emergency services.",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-07T15:09:08.592Z"
+  },
+  {
+    "id": "4af63d8a-e126-4d25-b170-c514c9538b00",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.135357,
+    "longitude": 72.9386555,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-08T19:53:04.493Z",
+    "whatsappBroadcast": {
+      "attempted": true,
+      "contactsAttempted": 4,
+      "contactsSuccessful": 1,
+      "errors": [
+        "Popup blocked by browser",
+        "Popup blocked by browser",
+        "Popup blocked by browser"
+      ],
+      "timestamp": "2026-03-08T19:53:11.011Z"
+    },
+    "updatedAt": "2026-03-08T19:53:11.011Z"
+  },
+  {
+    "id": "0777fe61-848a-4cac-af50-57b59c659471",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.135357,
+    "longitude": 72.9386555,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-08T19:53:04.566Z"
+  },
+  {
+    "id": "dd5c8e7d-db88-4ffd-a96a-98cdb41ad48f",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.135357,
+    "longitude": 72.9386555,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-08T19:53:04.632Z"
+  },
+  {
+    "id": "08d9fa8f-31f0-4156-919c-9ff456f275f1",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.135357,
+    "longitude": 72.9386555,
+    "message": "⚠️ EMERGENCY ALERT!\n\nI need help immediately!\n\nLocation: https://maps.google.com/?q=19.135357,72.9386555\n\nPlease contact me or emergency services.",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-08T19:53:11.043Z"
+  },
+  {
+    "id": "fdd748f6-4bc4-4df5-a6fb-54422f90eee8",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.12018353852032,
+    "longitude": 72.93900777500272,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-09T03:33:48.425Z",
+    "whatsappBroadcast": {
+      "attempted": true,
+      "contactsAttempted": 4,
+      "contactsSuccessful": 1,
+      "errors": [
+        "Popup blocked by browser",
+        "Popup blocked by browser",
+        "Popup blocked by browser"
+      ],
+      "timestamp": "2026-03-09T03:33:54.950Z"
+    },
+    "updatedAt": "2026-03-09T03:33:54.950Z"
+  },
+  {
+    "id": "25d04a4b-06b3-43d2-a69d-272f6e212765",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.12018353852032,
+    "longitude": 72.93900777500272,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-09T03:33:48.446Z"
+  },
+  {
+    "id": "6f1597c7-f7b5-4181-a5ab-5a5bfa9e2a0f",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.12018353852032,
+    "longitude": 72.93900777500272,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-09T03:33:48.564Z"
+  },
+  {
+    "id": "f10067b5-1b12-4da9-8a3e-1d92f6c7652c",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.12018353852032,
+    "longitude": 72.93900777500272,
+    "message": "⚠️ EMERGENCY ALERT!\n\nI need help immediately!\n\nLocation: https://maps.google.com/?q=19.12018353852032,72.93900777500272\n\nPlease contact me or emergency services.",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-09T03:33:54.990Z"
+  },
+  {
+    "id": "4ae756d7-c00a-4cb3-9203-69cb69888e5b",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.11951253890817,
+    "longitude": 72.93883271102295,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-09T04:05:42.124Z",
+    "whatsappBroadcast": {
+      "attempted": true,
+      "contactsAttempted": 4,
+      "contactsSuccessful": 1,
+      "errors": [
+        "Popup blocked by browser",
+        "Popup blocked by browser",
+        "Popup blocked by browser"
+      ],
+      "timestamp": "2026-03-09T04:05:50.420Z"
+    },
+    "updatedAt": "2026-03-09T04:05:50.420Z"
+  },
+  {
+    "id": "0b63e42b-cb63-4933-af9b-593309713b92",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.11951253890817,
+    "longitude": 72.93883271102295,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-09T04:05:42.153Z"
+  },
+  {
+    "id": "dc1d1cd0-3b51-4fb2-b02e-079d7f7cf824",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.11951253890817,
+    "longitude": 72.93883271102295,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-09T04:05:42.196Z"
+  },
+  {
+    "id": "025815a3-ce50-42d7-834a-ba96d3ff6a3f",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.11951253890817,
+    "longitude": 72.93883271102295,
+    "message": "⚠️ EMERGENCY ALERT!\n\nI need help immediately!\n\nLocation: https://maps.google.com/?q=19.11951253890817,72.93883271102295\n\nPlease contact me or emergency services.",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-09T04:05:50.444Z"
+  },
+  {
+    "id": "5474ff9f-c63d-45b0-bd69-eb73e2fd9ff2",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.120089832705215,
+    "longitude": 72.9390173768393,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-09T05:25:57.086Z",
+    "whatsappBroadcast": {
+      "attempted": true,
+      "contactsAttempted": 4,
+      "contactsSuccessful": 1,
+      "errors": [
+        "Popup blocked by browser",
+        "Popup blocked by browser",
+        "Popup blocked by browser"
+      ],
+      "timestamp": "2026-03-09T05:26:03.584Z"
+    },
+    "updatedAt": "2026-03-09T05:26:03.584Z"
+  },
+  {
+    "id": "6b65bcc0-a14b-4a20-b32d-23627c2d0132",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.120089832705215,
+    "longitude": 72.9390173768393,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-09T05:25:57.106Z"
+  },
+  {
+    "id": "4f0fe551-7356-42ca-b496-15a8eb4fc2c2",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.120089832705215,
+    "longitude": 72.9390173768393,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-09T05:25:57.198Z"
+  },
+  {
+    "id": "142af770-a51c-4e91-aad8-46b263df8c8d",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.120089832705215,
+    "longitude": 72.9390173768393,
+    "message": "⚠️ EMERGENCY ALERT!\n\nI need help immediately!\n\nLocation: https://maps.google.com/?q=19.120089832705215,72.9390173768393\n\nPlease contact me or emergency services.",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-09T05:26:03.617Z"
+  },
+  {
+    "id": "9c5146e9-2203-4293-8ac0-90ee423fd37f",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.19273879875026,
+    "longitude": 73.20161961533793,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-15T12:03:17.785Z",
+    "whatsappBroadcast": {
+      "attempted": true,
+      "contactsAttempted": 4,
+      "contactsSuccessful": 1,
+      "errors": [
+        "Popup blocked by browser",
+        "Popup blocked by browser",
+        "Popup blocked by browser"
+      ],
+      "timestamp": "2026-03-15T12:03:24.585Z"
+    },
+    "updatedAt": "2026-03-15T12:03:24.585Z"
+  },
+  {
+    "id": "4a1fb4b4-a44f-4539-942a-fa7c908d868d",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.19273879875026,
+    "longitude": 73.20161961533793,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-03-15T12:03:17.811Z"
+  },
+  {
+    "id": "5c334194-031d-4909-8d7a-3e63d91d4a4f",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.19273879875026,
+    "longitude": 73.20161961533793,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-15T12:03:17.897Z"
+  },
+  {
+    "id": "2b3112de-b934-4d20-b7be-81cbca03e257",
+    "userId": "cd0875a0-cdaf-4d34-b4a3-25d8303ad2b0",
+    "latitude": 19.19273879875026,
+    "longitude": 73.20161961533793,
+    "message": "⚠️ EMERGENCY ALERT!\n\nI need help immediately!\n\nLocation: https://maps.google.com/?q=19.19273879875026,73.20161961533793\n\nPlease contact me or emergency services.",
+    "contactsNotified": [
+      "4dda5ad6-3179-4bcf-a548-1c3ece45030a",
+      "e54a2feb-c9c2-4647-ba6d-c26c7d3a0e38",
+      "5a58f66a-5d41-414e-80eb-cef239decf46",
+      "81f66435-e5fd-48cf-804a-184676aac01f"
+    ],
+    "status": "active",
+    "timestamp": "2026-03-15T12:03:24.638Z"
+  },
+  {
+    "id": "7b4a4d30-c148-4bf5-a925-c76c3f5788d7",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": null,
+    "longitude": null,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-09-06T09:22:59.270Z",
+    "whatsappBroadcast": {
+      "attempted": true,
+      "contactsAttempted": 4,
+      "contactsSuccessful": 1,
+      "errors": [
+        "Popup blocked by browser",
+        "Popup blocked by browser",
+        "Popup blocked by browser"
+      ],
+      "timestamp": "2026-09-06T09:23:05.670Z"
+    },
+    "updatedAt": "2026-09-06T09:23:05.670Z"
+  },
+  {
+    "id": "d64ba58a-ba64-4923-9469-143fe27a8fa3",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": null,
+    "longitude": null,
+    "message": "I need help immediately!",
+    "contactsNotified": [],
+    "status": "active",
+    "timestamp": "2026-09-06T09:22:59.294Z"
+  },
+  {
+    "id": "35161f14-5a89-4304-99b3-5ab3c878c180",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": null,
+    "longitude": null,
+    "message": "Emergency! I need help immediately!",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-09-06T09:22:59.329Z"
+  },
+  {
+    "id": "1884d70f-5c6e-4924-aecb-c3b2f31ada8f",
+    "userId": "a8770467-ab53-47a9-9705-483fbcf6bced",
+    "latitude": null,
+    "longitude": null,
+    "message": "⚠️ EMERGENCY ALERT!\n\nI need help immediately!\n\nLocation: https://maps.google.com/?q=null,null\n\nPlease contact me or emergency services.",
+    "contactsNotified": [
+      "21f57273-34b8-4d94-b5fa-128f540e3cf7",
+      "02fa13df-3453-4985-8e79-7479d83f6bee",
+      "dc4aacb5-4e61-4cc2-9eee-fc37cbf40ee4",
+      "b7344ffa-8419-4446-b171-828871b3189e"
+    ],
+    "status": "active",
+    "timestamp": "2026-09-06T09:23:05.685Z"
+  }
+]

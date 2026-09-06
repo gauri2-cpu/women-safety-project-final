@@ -1,0 +1,232 @@
+/* BroadcastProgressModal Styles */
+
+.broadcast-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  animation: fadeIn 0.2s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.broadcast-modal {
+  background: white;
+  border-radius: 12px;
+  padding: 0;
+  width: 90%;
+  max-width: 450px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  animation: slideUp 0.3s ease-out;
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.broadcast-modal-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 20px 24px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.broadcast-modal-icon {
+  font-size: 28px;
+  line-height: 1;
+}
+
+.broadcast-modal-title {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+  color: #1f2937;
+}
+
+.broadcast-modal-body {
+  padding: 24px;
+}
+
+.broadcast-modal-status {
+  font-size: 16px;
+  color: #374151;
+  margin: 0 0 20px 0;
+  font-weight: 500;
+  text-align: center;
+}
+
+.broadcast-progress-container {
+  margin: 20px 0;
+}
+
+.broadcast-progress-bar {
+  width: 100%;
+  height: 8px;
+  background-color: #e5e7eb;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.broadcast-progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #3b82f6 0%, #2563eb 100%);
+  border-radius: 4px;
+  transition: width 0.3s ease;
+  animation: pulse 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.8;
+  }
+}
+
+.broadcast-progress-text {
+  margin: 8px 0 0 0;
+  font-size: 14px;
+  color: #6b7280;
+  text-align: center;
+}
+
+.broadcast-success-details,
+.broadcast-error-details {
+  text-align: center;
+  margin-top: 16px;
+}
+
+.broadcast-success-details p,
+.broadcast-error-details p {
+  margin: 8px 0;
+  font-size: 15px;
+  color: #374151;
+}
+
+.broadcast-note {
+  font-size: 13px !important;
+  color: #6b7280 !important;
+  font-style: italic;
+  margin-top: 12px !important;
+}
+
+.broadcast-error-message {
+  color: #dc2626 !important;
+  font-weight: 500;
+  padding: 8px 12px;
+  background-color: #fee2e2;
+  border-radius: 6px;
+  margin: 12px 0 !important;
+}
+
+.broadcast-modal-footer {
+  padding: 16px 24px;
+  border-top: 1px solid #e5e7eb;
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+
+.broadcast-btn {
+  padding: 10px 24px;
+  border: none;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  min-width: 120px;
+}
+
+.broadcast-btn-cancel {
+  background-color: #ef4444;
+  color: white;
+}
+
+.broadcast-btn-cancel:hover {
+  background-color: #dc2626;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(239, 68, 68, 0.3);
+}
+
+.broadcast-btn-cancel:active {
+  transform: translateY(0);
+}
+
+.broadcast-btn-close {
+  background-color: #3b82f6;
+  color: white;
+}
+
+.broadcast-btn-close:hover {
+  background-color: #2563eb;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(59, 130, 246, 0.3);
+}
+
+.broadcast-btn-close:active {
+  transform: translateY(0);
+}
+
+/* Mobile responsiveness */
+@media (max-width: 480px) {
+  .broadcast-modal {
+    width: 95%;
+    margin: 16px;
+  }
+
+  .broadcast-modal-header {
+    padding: 16px 20px;
+  }
+
+  .broadcast-modal-body {
+    padding: 20px;
+  }
+
+  .broadcast-modal-title {
+    font-size: 18px;
+  }
+
+  .broadcast-modal-status {
+    font-size: 15px;
+  }
+
+  .broadcast-btn {
+    padding: 10px 20px;
+    font-size: 14px;
+    min-width: 100px;
+  }
+}
+
+/* Accessibility */
+.broadcast-btn:focus {
+  outline: 2px solid #3b82f6;
+  outline-offset: 2px;
+}
+
+.broadcast-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}

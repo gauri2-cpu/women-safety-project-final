@@ -1,0 +1,136 @@
+.panic-button-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  margin: 24px 0;
+}
+
+.panic-error {
+  background-color: #ffebee;
+  color: var(--danger-color);
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-size: 14px;
+  text-align: center;
+  animation: slideDown 0.3s ease;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.panic-button {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background: linear-gradient(135deg, #ff1744 0%, #f50057 100%);
+  color: white;
+  padding: 20px 32px;
+  border-radius: 16px;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 8px 24px rgba(255, 23, 68, 0.4);
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+  min-width: 280px;
+}
+
+.panic-button::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.3);
+  transform: translate(-50%, -50%);
+  transition: width 0.6s, height 0.6s;
+}
+
+.panic-button:hover:not(:disabled)::before {
+  width: 300px;
+  height: 300px;
+}
+
+.panic-button:hover:not(:disabled) {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 32px rgba(255, 23, 68, 0.5);
+}
+
+.panic-button:active:not(:disabled) {
+  transform: translateY(-2px);
+}
+
+.panic-button:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.panic-button.loading .panic-icon {
+  animation: pulse 1s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+}
+
+.panic-icon {
+  font-size: 48px;
+  line-height: 1;
+  z-index: 1;
+}
+
+.panic-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  z-index: 1;
+}
+
+.panic-title {
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.panic-subtitle {
+  font-size: 13px;
+  opacity: 0.9;
+  font-weight: 400;
+}
+
+@media (max-width: 480px) {
+  .panic-button {
+    min-width: 240px;
+    padding: 16px 24px;
+    gap: 16px;
+  }
+
+  .panic-icon {
+    font-size: 40px;
+  }
+
+  .panic-title {
+    font-size: 18px;
+  }
+
+  .panic-subtitle {
+    font-size: 12px;
+  }
+}

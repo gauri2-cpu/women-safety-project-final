@@ -1,0 +1,458 @@
+.sos-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+  position: relative;
+  gap: 16px;
+}
+
+.sos-info-text {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.sos-hint {
+  color: var(--text-light);
+  font-size: 14px;
+  font-weight: 500;
+  background-color: var(--bg-light);
+  padding: 8px 20px;
+  border-radius: 20px;
+  display: inline-block;
+}
+
+/* Unified SOS Button */
+.sos-button.unified {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #ff1744, #f50057);
+  color: white;
+  border: 10px solid white;
+  box-shadow: 0 12px 40px rgba(255, 23, 68, 0.5);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+
+.sos-button.unified::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.3) 0%, transparent 70%);
+  transform: translate(-50%, -50%) scale(0);
+  transition: transform 0.6s ease;
+  border-radius: 50%;
+}
+
+.sos-button.unified:hover::before {
+  transform: translate(-50%, -50%) scale(1.5);
+}
+
+.sos-button.unified:hover {
+  transform: translateY(-4px) scale(1.02);
+  box-shadow: 0 16px 48px rgba(255, 23, 68, 0.6);
+}
+
+.sos-button.unified:active,
+.sos-button.unified.pressed {
+  transform: scale(0.98);
+  box-shadow: 0 8px 24px rgba(255, 23, 68, 0.7);
+}
+
+.sos-icon {
+  font-size: 56px;
+  margin-bottom: 8px;
+  animation: pulse 2s infinite;
+  z-index: 1;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+}
+
+.sos-text {
+  font-size: 52px;
+  font-weight: 900;
+  letter-spacing: 6px;
+  z-index: 1;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.sos-instruction {
+  font-size: 13px;
+  font-weight: 500;
+  margin-top: 8px;
+  opacity: 0.95;
+  z-index: 1;
+  letter-spacing: 0.5px;
+}
+
+.press-indicator {
+  position: relative;
+  width: 240px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+
+.press-indicator > div:first-child {
+  width: 100%;
+  height: 8px;
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.press-progress {
+  height: 100%;
+  background: linear-gradient(90deg, #4caf50, #8bc34a);
+  animation: fillProgress 1.5s linear forwards;
+  box-shadow: 0 0 10px rgba(76, 175, 80, 0.5);
+}
+
+@keyframes fillProgress {
+  from {
+    width: 0%;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+.press-hint {
+  color: var(--success-color);
+  font-size: 13px;
+  font-weight: 600;
+  animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Modal Styles */
+.sos-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  padding: 20px;
+}
+
+.sos-modal {
+  background-color: white;
+  padding: 32px;
+  border-radius: 16px;
+  max-width: 500px;
+  width: 100%;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+}
+
+.sos-modal h2 {
+  color: var(--danger-color);
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.modal-info {
+  text-align: center;
+  color: var(--text-light);
+  margin-bottom: 20px;
+}
+
+.sos-modal textarea {
+  width: 100%;
+  padding: 12px;
+  border: 2px solid var(--border-color);
+  border-radius: 8px;
+  font-family: inherit;
+  font-size: 15px;
+  resize: vertical;
+  margin-bottom: 20px;
+}
+
+.sos-modal textarea:focus {
+  outline: none;
+  border-color: var(--primary-color);
+}
+
+.notification-options {
+  margin-bottom: 24px;
+}
+
+.notification-options label:first-child {
+  display: block;
+  margin-bottom: 12px;
+  font-weight: 600;
+  color: var(--text-dark);
+}
+
+.radio-group {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.radio-group label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+}
+
+.radio-group input[type="radio"] {
+  cursor: pointer;
+}
+
+.modal-actions {
+  display: flex;
+  gap: 12px;
+}
+
+.btn-send-sos {
+  flex: 1;
+  background-color: var(--danger-color);
+  color: white;
+  padding: 14px;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.btn-send-sos:hover:not(:disabled) {
+  background-color: #d32f2f;
+}
+
+.btn-cancel {
+  flex: 1;
+  background-color: var(--bg-light);
+  color: var(--text-dark);
+  padding: 14px;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.btn-cancel:hover:not(:disabled) {
+  background-color: var(--border-color);
+}
+
+/* Quick Alert Modal */
+.quick-alert-modal {
+  text-align: center;
+}
+
+.alarm-indicator {
+  position: relative;
+  margin: 24px 0;
+  padding: 32px;
+}
+
+.alarm-wave {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100px;
+  height: 100px;
+  border: 3px solid var(--danger-color);
+  border-radius: 50%;
+  animation: alarmWave 1.5s infinite;
+}
+
+.alarm-wave::before,
+.alarm-wave::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 3px solid var(--danger-color);
+  border-radius: 50%;
+  animation: alarmWave 1.5s infinite;
+}
+
+.alarm-wave::before {
+  width: 120px;
+  height: 120px;
+  animation-delay: 0.3s;
+}
+
+.alarm-wave::after {
+  width: 140px;
+  height: 140px;
+  animation-delay: 0.6s;
+}
+
+@keyframes alarmWave {
+  0% {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(0.8);
+  }
+  100% {
+    opacity: 0;
+    transform: translate(-50%, -50%) scale(1.5);
+  }
+}
+
+.alarm-icon {
+  font-size: 48px;
+  position: relative;
+  z-index: 1;
+  animation: shake 0.5s infinite;
+}
+
+@keyframes shake {
+  0%, 100% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-5px);
+  }
+  75% {
+    transform: translateX(5px);
+  }
+}
+
+.alarm-indicator p {
+  margin-top: 16px;
+  color: var(--danger-color);
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.alert-info {
+  background-color: #e8f5e9;
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 24px;
+}
+
+.alert-info p {
+  color: var(--success-color);
+  font-size: 15px;
+  margin: 8px 0;
+  font-weight: 500;
+}
+
+.btn-stop-alarm {
+  width: 100%;
+  background-color: var(--danger-color);
+  color: white;
+  padding: 16px;
+  border-radius: 12px;
+  font-size: 18px;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn-stop-alarm:hover {
+  background-color: #d32f2f;
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+@media (max-width: 768px) {
+  .sos-button.unified {
+    width: 200px;
+    height: 200px;
+    border: 8px solid white;
+  }
+
+  .sos-icon {
+    font-size: 48px;
+  }
+
+  .sos-text {
+    font-size: 46px;
+    letter-spacing: 5px;
+  }
+
+  .sos-instruction {
+    font-size: 12px;
+  }
+
+  .press-indicator > div:first-child {
+    width: 220px;
+  }
+}
+
+@media (max-width: 480px) {
+  .sos-container {
+    padding: 24px 16px;
+  }
+
+  .sos-hint {
+    font-size: 13px;
+    padding: 6px 16px;
+  }
+
+  .sos-button.unified {
+    width: 180px;
+    height: 180px;
+    border: 6px solid white;
+  }
+
+  .sos-icon {
+    font-size: 42px;
+  }
+
+  .sos-text {
+    font-size: 40px;
+    letter-spacing: 4px;
+  }
+
+  .sos-instruction {
+    font-size: 11px;
+  }
+
+  .press-indicator > div:first-child {
+    width: 200px;
+    height: 6px;
+  }
+
+  .press-hint {
+    font-size: 12px;
+  }
+
+  .sos-modal {
+    padding: 20px;
+  }
+
+  .modal-actions {
+    flex-direction: column;
+  }
+}

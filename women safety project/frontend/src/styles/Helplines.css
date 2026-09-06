@@ -1,0 +1,157 @@
+.helplines-container {
+  background-color: white;
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+}
+
+.helplines-container h2 {
+  color: var(--primary-color);
+  font-size: 24px;
+  margin-bottom: 8px;
+}
+
+.helplines-subtitle {
+  color: var(--text-light);
+  margin-bottom: 24px;
+}
+
+.category-filters {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+
+.filter-btn {
+  background-color: var(--bg-light);
+  color: var(--text-dark);
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.filter-btn.active {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+.filter-btn:hover:not(.active) {
+  background-color: var(--border-color);
+}
+
+.helplines-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.helpline-card {
+  background-color: var(--bg-light);
+  padding: 20px;
+  border-radius: 12px;
+  border: 2px solid var(--border-color);
+  transition: all 0.3s ease;
+}
+
+.helpline-card:hover {
+  border-color: var(--primary-color);
+  box-shadow: var(--shadow);
+  transform: translateY(-2px);
+}
+
+.helpline-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  margin-bottom: 12px;
+  gap: 12px;
+}
+
+.helpline-header h3 {
+  color: var(--text-dark);
+  font-size: 18px;
+  flex: 1;
+}
+
+.helpline-category {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 4px 12px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.helpline-description {
+  color: var(--text-light);
+  font-size: 14px;
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
+.helpline-available {
+  color: var(--success-color);
+  font-size: 13px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.helpline-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.btn-call {
+  flex: 1;
+  background-color: var(--success-color);
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.btn-call:hover {
+  background-color: #388e3c;
+  transform: translateY(-2px);
+}
+
+.btn-whatsapp {
+  flex: 1;
+  background-color: #25d366;
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.btn-whatsapp:hover {
+  background-color: #20ba5a;
+  transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+  .helplines-list {
+    grid-template-columns: 1fr;
+  }
+
+  .category-filters {
+    justify-content: center;
+  }
+
+  .filter-btn {
+    flex: 1;
+    min-width: 80px;
+  }
+}

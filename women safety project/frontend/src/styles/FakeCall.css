@@ -1,0 +1,317 @@
+.fake-call-container {
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.fake-call-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.fake-call-header h2 {
+  margin: 0 0 8px 0;
+  color: #333;
+  font-size: 28px;
+}
+
+.fake-call-header p {
+  margin: 0;
+  color: #666;
+  font-size: 14px;
+}
+
+.fake-call-setup {
+  background: white;
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 24px;
+}
+
+.setup-section {
+  margin-bottom: 20px;
+}
+
+.setup-section label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 600;
+  color: #333;
+  font-size: 14px;
+}
+
+.setup-section input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+.setup-section input:focus {
+  outline: none;
+  border-color: #667eea;
+}
+
+.setup-section small {
+  display: block;
+  margin-top: 4px;
+  color: #666;
+  font-size: 12px;
+}
+
+.preset-contacts {
+  margin-bottom: 20px;
+}
+
+.preset-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.preset-btn {
+  padding: 8px 16px;
+  background: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 13px;
+  transition: all 0.2s;
+}
+
+.preset-btn:hover {
+  background: #667eea;
+  color: white;
+  border-color: #667eea;
+}
+
+.btn-start-call {
+  width: 100%;
+  padding: 16px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.btn-start-call:hover {
+  transform: translateY(-2px);
+}
+
+.fake-call-info {
+  background: white;
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.fake-call-info h3 {
+  margin: 0 0 12px 0;
+  color: #333;
+  font-size: 16px;
+}
+
+.fake-call-info ul {
+  margin: 0 0 24px 0;
+  padding-left: 20px;
+}
+
+.fake-call-info ul:last-child {
+  margin-bottom: 0;
+}
+
+.fake-call-info li {
+  margin-bottom: 8px;
+  color: #666;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+/* Call Screen */
+.call-screen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.call-screen-content {
+  text-align: center;
+  color: white;
+  width: 100%;
+  padding: 40px 20px;
+}
+
+.call-status {
+  font-size: 16px;
+  opacity: 0.9;
+  margin-bottom: 40px;
+  animation: pulse 2s infinite;
+}
+
+.caller-info {
+  margin-bottom: 40px;
+}
+
+.caller-avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 48px;
+  font-weight: bold;
+  margin: 0 auto 20px;
+  border: 4px solid rgba(255, 255, 255, 0.5);
+}
+
+.caller-name {
+  font-size: 32px;
+  margin: 0 0 8px 0;
+  font-weight: 600;
+}
+
+.caller-number {
+  font-size: 18px;
+  opacity: 0.9;
+  margin: 0;
+}
+
+.call-duration {
+  font-size: 24px;
+  margin-bottom: 60px;
+  font-weight: 500;
+}
+
+.call-actions {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.call-actions button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  background: rgba(255, 255, 255, 0.2);
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  color: white;
+  padding: 20px;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.call-actions button:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: scale(1.1);
+}
+
+.btn-answer {
+  background: rgba(76, 175, 80, 0.8) !important;
+  border-color: rgba(76, 175, 80, 1) !important;
+}
+
+.btn-decline, .btn-end-call {
+  background: rgba(244, 67, 54, 0.8) !important;
+  border-color: rgba(244, 67, 54, 1) !important;
+}
+
+.btn-icon {
+  font-size: 32px;
+}
+
+.call-actions button span:last-child {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.ringing-indicator {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+}
+
+.ring-wave {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-radius: 50%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  animation: ring 1.5s infinite;
+}
+
+.ring-wave:nth-child(2) {
+  animation-delay: 0.5s;
+}
+
+.ring-wave:nth-child(3) {
+  animation-delay: 1s;
+}
+
+@keyframes ring {
+  0% {
+    width: 200px;
+    height: 200px;
+    opacity: 1;
+  }
+  100% {
+    width: 400px;
+    height: 400px;
+    opacity: 0;
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 0.9;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+@media (max-width: 768px) {
+  .fake-call-container {
+    padding: 16px;
+  }
+
+  .call-actions {
+    gap: 20px;
+  }
+
+  .call-actions button {
+    width: 70px;
+    height: 70px;
+    padding: 16px;
+  }
+
+  .btn-icon {
+    font-size: 28px;
+  }
+}
