@@ -363,5 +363,5 @@ For issues or questions:
 
 ---
 
-**Last Updated**: December 14, 2024
+**Last Updated**: April 14, 2026
 **Version**: 1.0.0
